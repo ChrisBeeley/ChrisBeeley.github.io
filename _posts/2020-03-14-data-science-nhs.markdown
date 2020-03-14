@@ -1,6 +1,10 @@
 ---
 layout: post
+<<<<<<< HEAD
 title:  "Data science in the NHS"
+=======
+title:  "Welcome to the site!"
+>>>>>>> 526f6f0012fb2b8302c33861c0149b76ae952c49
 date:   2020-03-14 15:10:38 +0000
 categories: jekyll update
 ---
